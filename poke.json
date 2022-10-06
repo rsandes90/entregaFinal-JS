@@ -1,0 +1,74 @@
+{
+	{
+		"id":1,
+		"name":"bulbasaur",
+		"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+		"types": [
+			{
+				"slot":1,
+				"type":"grass"
+			},
+			{
+				"slot":2,
+				"type":"poison"			
+			}
+		],
+		"price":310
+	},
+	{
+		"id":2,
+		"name":"ivysaur",
+		"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+		"types": [
+			{
+				"slot":1,
+				"type":"grass"
+			},
+			{
+				"slot":2,
+				"type":"poison"			
+			}
+		],
+		"price":112
+	},
+	{
+		"id":3,
+		"name":"venusaur",
+		"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
+		"types": [
+			{
+				"slot":1,
+				"type":"grass"
+			},
+			{
+				"slot":2,
+				"type":"poison"			
+			}
+		],	
+		"price":240
+	},	
+	{
+		"id":4,
+		"name":"charmander",
+		"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+		"types": [
+			{
+				"slot":1,
+				"type":"fire"
+			}
+		],
+		"price":370
+	},
+	{
+		"id":5,
+		"name":"charmeleon",
+		"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+		"types": [
+			{
+				"slot":1,
+				"type":"fire"
+			}
+		],
+		"price":480
+	}
+}
