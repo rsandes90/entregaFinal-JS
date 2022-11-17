@@ -1,76 +1,109 @@
 {
 	"data": [	
 		{
-			"id":1,
-			"name":"bulbasaur",
-			"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
-			"types": [
-				{
-					"slot":1,
-					"type":"grass"
-				},
-				{
-					"slot":2,
-					"type":"poison"			
-				}
-			],
-			"price":310
-		},
-		{
-			"id":2,
-			"name":"ivysaur",
-			"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
-			"types": [
-				{
-					"slot":1,
-					"type":"grass"
-				},
-				{
-					"slot":2,
-					"type":"poison"			
-				}
-			],
-			"price":112
-		},
-		{
-			"id":3,
-			"name":"venusaur",
-			"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/3.png",
-			"types": [
-				{
-					"slot":1,
-					"type":"grass"
-				},
-				{
-					"slot":2,
-					"type":"poison"			
-				}
-			],	
-			"price":240
-		},	
-		{
-			"id":4,
-			"name":"charmander",
-			"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
-			"types": [
-				{
-					"slot":1,
-					"type":"fire"
-				}
-			],
-			"price":370
-		},
-		{
-			"id":5,
-			"name":"charmeleon",
-			"img":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
-			"types": [
-				{
-					"slot":1,
-					"type":"fire"
-				}
-			],
-			"price":480
-		}
+		"id": 1,
+		"nombre": "Squirtle",
+		"precio": 6.89,
+		"tipo": "agua",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+	    },
+	    {
+		"id": 2,
+		"nombre": "Wartortle",
+		"precio": 5.89,
+		"tipo": "agua",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/8.png",
+	    },
+	    {
+		"id": 3,
+		"nombre": "Blastoise",
+		"precio": 4.89,
+		"tipo": "agua",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+	    },
+	    {
+		"id": 4,
+		"nombre": "Charmander",
+		"precio": 3.67,
+		"tipo": "fuego",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+	    },
+	    {
+		"id": 5,
+		"nombre": "Charmeleon",
+		"precio": 4.52,
+		"tipo": "fuego",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/5.png",
+	    },
+	    {
+		"id": 6,
+		"nombre": "Charizard",
+		"precio": 7.33,
+		"tipo": "fuego",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+	    },
+	    {
+		"id": 7,
+		"nombre": "Pikachu",
+		"precio": 2.2,
+		"tipo": "trueno",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+	    },
+	    {
+		"id": 8,
+		"nombre": "Raichu",
+		"precio": 1.12,
+		"tipo": "trueno",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/26.png",
+	    },
+	    {
+		"id": 9,
+		"nombre": "Voltorb",
+		"precio": 0.5,
+		"tipo": "trueno",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/100.png",
+	    },
+	    {
+		"id": 10,
+		"nombre": "Chikorita",
+		"precio": 8.35,
+		"tipo": "planta",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/152.png",
+	    },
+	    {
+		"id": 11,
+		"nombre": "Tangela",
+		"precio": 8.65,
+		"tipo": "planta",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/114.png",
+	    },
+	    {
+		"id": 12,
+		"nombre": "Bayleef",
+		"precio": 9.29,
+		"tipo": "planta",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/153.png",
+	    },
+	    {
+		"id": 13,
+		"nombre": "Caterpie",
+		"precio": 8.27,
+		"tipo": "bicho",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+	    },
+	    {
+		"id": 14,
+		"nombre": "Pinsir",
+		"precio": 5.55,
+		"tipo": "bicho",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/127.png",
+	    },
+	    {
+		"id": 15,
+		"nombre": "Wurmple",
+		"precio": 7.46,
+		"tipo": "bicho",
+		"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/265.png",
+	    }
 	]	
 }
